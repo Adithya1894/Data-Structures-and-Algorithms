@@ -1,0 +1,12 @@
+1. Flood Fill is done
+2. Find number of islands is done
+3. Word Search is done
+4. Find if there is a path between different vertices In progress
+5. Game of Life done
+6. Find partition point
+7. Word Ladder In progress
+8. Size of islands 
+9. Word Search using trie
+10. Validate Sudoku done. 
+11. search in a 2D matrix.
+12. find path for a robot in a maze(all variants)  
